@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251208T100000
+DTEND;TZID=Europe/Kyiv:20251208T112000
+SUMMARY:Менеджмент проєктів програмного забезпечення (Л)
+DESCRIPTION:https://meet.google.com/rdm-jhen-xuf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251208T120000
+DTEND;TZID=Europe/Kyiv:20251208T132000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:https://us02web.zoom.us/j/4163215007?pwd=dsAC4aA9gkvEua49CXBP1LDuUYBaM4.1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251208T133000
+DTEND;TZID=Europe/Kyiv:20251208T145000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:https://us02web.zoom.us/j/4163215007?pwd=dsAC4aA9gkvEua49CXBP1LDuUYBaM4.1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251208T151000
+DTEND;TZID=Europe/Kyiv:20251208T163000
+SUMMARY:Програмування інтернет-речей (Л)
+DESCRIPTION:https://meet.google.com/iwz-vtva-mdm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251209T100000
+DTEND;TZID=Europe/Kyiv:20251209T112000
+SUMMARY:Програмування інтернет-речей (Пр)
+DESCRIPTION:https://meet.google.com/iwz-vtva-mdm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251209T120000
+DTEND;TZID=Europe/Kyiv:20251209T132000
+SUMMARY:UI/UX дизайн (Л)
+DESCRIPTION:https://meet.google.com/kib-fcys-jkk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251209T133000
+DTEND;TZID=Europe/Kyiv:20251209T145000
+SUMMARY:Паралельні та розподілені обчислення (Л) — відмінено
+DESCRIPTION:https://meet.google.com/qfk-sbwk-tfg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251209T151000
+DTEND;TZID=Europe/Kyiv:20251209T163000
+SUMMARY:Захист інформації в комп’ютерних системах (Л)
+DESCRIPTION:https://meet.google.com/oas-hmdb-xed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251209T164000
+DTEND;TZID=Europe/Kyiv:20251209T180000
+SUMMARY:Алгоритми та методи обчислень (Л)
+DESCRIPTION:https://meet.google.com/psr-fmce-aej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251210T083000
+DTEND;TZID=Europe/Kyiv:20251210T095000
+SUMMARY:Документування програмних продуктів (Л)
+DESCRIPTION:https://meet.google.com/xni-zzfs-ygi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251210T100000
+DTEND;TZID=Europe/Kyiv:20251210T112000
+SUMMARY:UI/UX дизайн (Пр)
+DESCRIPTION:https://meet.google.com/kib-fcys-jkk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251210T120000
+DTEND;TZID=Europe/Kyiv:20251210T132000
+SUMMARY:UI/UX дизайн (Пр)
+DESCRIPTION:https://meet.google.com/kib-fcys-jkk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251210T133000
+DTEND;TZID=Europe/Kyiv:20251210T145000
+SUMMARY:Захист інформації в комп’ютерних системах (Пр)
+DESCRIPTION:https://meet.google.com/oas-hmdb-xed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251210T151000
+DTEND;TZID=Europe/Kyiv:20251210T163000
+SUMMARY:Паралельні та розподілені обчислення (Л)
+DESCRIPTION:https://meet.google.com/qfk-sbwk-tfg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251211T100000
+DTEND;TZID=Europe/Kyiv:20251211T112000
+SUMMARY:Паралельні та розподілені обчислення (Пр)
+DESCRIPTION:https://meet.google.com/qfk-sbwk-tfg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251211T120000
+DTEND;TZID=Europe/Kyiv:20251211T132000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:https://us02web.zoom.us/j/4163215007?pwd=dsAC4aA9gkvEua49CXBP1LDuUYBaM4.1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251211T133000
+DTEND;TZID=Europe/Kyiv:20251211T145000
+SUMMARY:Алгоритми та методи обчислень (Пр)
+DESCRIPTION:https://meet.google.com/psr-fmce-aej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251211T151000
+DTEND;TZID=Europe/Kyiv:20251211T163000
+SUMMARY:Програмування інтернет-речей (Пр)
+DESCRIPTION:https://meet.google.com/iwz-vtva-mdm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251212T083000
+DTEND;TZID=Europe/Kyiv:20251212T095000
+SUMMARY:Менеджмент проєктів програмного забезпечення (Пр)
+DESCRIPTION:https://meet.google.com/rdm-jhen-xuf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251212T100000
+DTEND;TZID=Europe/Kyiv:20251212T112000
+SUMMARY:Документування програмних продуктів (Пр)
+DESCRIPTION:https://meet.google.com/xni-zzfs-ygi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251212T120000
+DTEND;TZID=Europe/Kyiv:20251212T132000
+SUMMARY:UI/UX дизайн (Пр)
+DESCRIPTION:https://meet.google.com/kib-fcys-jkk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251212T133000
+DTEND;TZID=Europe/Kyiv:20251212T145000
+SUMMARY:UI/UX дизайн (Пр)
+DESCRIPTION:https://meet.google.com/kib-fcys-jkk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251215T100000
+DTEND;TZID=Europe/Kyiv:20251215T112000
+SUMMARY:Менеджмент проєктів програмного забезпечення (Пр)
+DESCRIPTION:https://meet.google.com/rdm-jhen-xuf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251215T120000
+DTEND;TZID=Europe/Kyiv:20251215T132000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:https://us02web.zoom.us/j/4163215007?pwd=dsAC4aA9gkvEua49CXBP1LDuUYBaM4.1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251215T151000
+DTEND;TZID=Europe/Kyiv:20251215T163000
+SUMMARY:Програмування інтернет-речей (Л)
+DESCRIPTION:https://meet.google.com/iwz-vtva-mdm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251216T083000
+DTEND;TZID=Europe/Kyiv:20251216T095000
+SUMMARY:Алгоритми та методи обчислень (Пр)
+DESCRIPTION:https://meet.google.com/psr-fmce-aej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251216T100000
+DTEND;TZID=Europe/Kyiv:20251216T112000
+SUMMARY:Паралельні та розподілені обчислення (Пр)
+DESCRIPTION:https://meet.google.com/qfk-sbwk-tfg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251216T120000
+DTEND;TZID=Europe/Kyiv:20251216T132000
+SUMMARY:Паралельні та розподілені обчислення (Л)
+DESCRIPTION:https://meet.google.com/qfk-sbwk-tfg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251216T133000
+DTEND;TZID=Europe/Kyiv:20251216T145000
+SUMMARY:Паралельні та розподілені обчислення (Л)
+DESCRIPTION:https://meet.google.com/qfk-sbwk-tfg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251216T151000
+DTEND;TZID=Europe/Kyiv:20251216T163000
+SUMMARY:Захист інформації в комп’ютерних системах (Пр)
+DESCRIPTION:https://meet.google.com/oas-hmdb-xed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251217T083000
+DTEND;TZID=Europe/Kyiv:20251217T095000
+SUMMARY:Документування програмних продуктів (Пр)
+DESCRIPTION:https://meet.google.com/xni-zzfs-ygi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251217T100000
+DTEND;TZID=Europe/Kyiv:20251217T112000
+SUMMARY:UI/UX дизайн (Пр)
+DESCRIPTION:https://meet.google.com/kib-fcys-jkk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251217T120000
+DTEND;TZID=Europe/Kyiv:20251217T132000
+SUMMARY:UI/UX дизайн (Пр)
+DESCRIPTION:https://meet.google.com/kib-fcys-jkk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251217T133000
+DTEND;TZID=Europe/Kyiv:20251217T145000
+SUMMARY:Захист інформації в комп’ютерних системах (Пр)
+DESCRIPTION:https://meet.google.com/oas-hmdb-xed
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251218T100000
+DTEND;TZID=Europe/Kyiv:20251218T112000
+SUMMARY:Паралельні та розподілені обчислення (Пр)
+DESCRIPTION:https://meet.google.com/qfk-sbwk-tfg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251218T120000
+DTEND;TZID=Europe/Kyiv:20251218T132000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:https://us02web.zoom.us/j/4163215007?pwd=dsAC4aA9gkvEua49CXBP1LDuUYBaM4.1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251218T133000
+DTEND;TZID=Europe/Kyiv:20251218T145000
+SUMMARY:Алгоритми та методи обчислень (Пр)
+DESCRIPTION:https://meet.google.com/psr-fmce-aej
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251218T151000
+DTEND;TZID=Europe/Kyiv:20251218T163000
+SUMMARY:Програмування інтернет-речей (Пр)
+DESCRIPTION:https://meet.google.com/iwz-vtva-mdm
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251219T083000
+DTEND;TZID=Europe/Kyiv:20251219T095000
+SUMMARY:Менеджмент проєктів програмного забезпечення (Пр)
+DESCRIPTION:https://meet.google.com/rdm-jhen-xuf
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251219T100000
+DTEND;TZID=Europe/Kyiv:20251219T112000
+SUMMARY:Документування програмних продуктів (Пр)
+DESCRIPTION:https://meet.google.com/xni-zzfs-ygi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251219T120000
+DTEND;TZID=Europe/Kyiv:20251219T132000
+SUMMARY:UI/UX дизайн (Пр)
+DESCRIPTION:https://meet.google.com/kib-fcys-jkk
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Kyiv:20251219T133000
+DTEND;TZID=Europe/Kyiv:20251219T145000
+SUMMARY:UI/UX дизайн (Пр)
+DESCRIPTION:https://meet.google.com/kib-fcys-jkk
+END:VEVENT
+END:VCALENDAR
