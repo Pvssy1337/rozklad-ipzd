@@ -1,0 +1,572 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//ChatGPT//University Schedule//UK
+X-WR-CALNAME:Розклад занять
+X-WR-TIMEZONE:Europe/Kyiv
+BEGIN:VEVENT
+UID:33c99661-9ff9-40bd-869a-393e2c6d9795@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260511T083000
+DTEND;TZID=Europe/Kyiv:20260511T095000
+SUMMARY:Якість програмного забезпечення і тестування (Л)
+DESCRIPTION:збірна група ІПЗз+д-23\\nЯкубовський Володимир Петрович\\nhtt
+ ps://meet.google.com/shg-aprh...
+END:VEVENT
+BEGIN:VEVENT
+UID:bc720e24-0ee9-4476-93ae-59eed89d9b69@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260511T100000
+DTEND;TZID=Europe/Kyiv:20260511T112000
+SUMMARY:Тренінг-курс `Комп`ютерна графіка` (Пр)
+DESCRIPTION:збірна група Б0138з\\nГончарик Андрій Петрович\\nhttps://meet
+ .google.com/fkq-toda...
+END:VEVENT
+BEGIN:VEVENT
+UID:78012267-995e-41f1-ae06-6749953893ec@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260511T120000
+DTEND;TZID=Europe/Kyiv:20260511T132000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nКуцела Марія Михайлівна\\nhttps://us
+ 02web.zoom.us/j/416321...
+END:VEVENT
+BEGIN:VEVENT
+UID:40057b0b-88e1-4459-a3f5-c4e1e53293f1@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260511T133000
+DTEND;TZID=Europe/Kyiv:20260511T145000
+SUMMARY:Розробка веб-додатків\, веб-дизайн та тестування (Л)
+DESCRIPTION:збірна група ІПЗз+д-23\\nСурма Юрій Юрійович\\nhttps://meet.g
+ oogle.com/xxm-mtxb...
+END:VEVENT
+BEGIN:VEVENT
+UID:3059ca3f-0b57-4d66-970f-46ecf4e93ce7@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260511T151000
+DTEND;TZID=Europe/Kyiv:20260511T163000
+SUMMARY:Медіаграмотність (Пр)
+DESCRIPTION:збірна група Б0193з\\nЦипердюк Іван Михайлович\\nhttps://meet
+ .google.com/pbz-ktmz...
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc4c396-1ceb-4c9b-8fad-ac25a46dc378@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260511T164000
+DTEND;TZID=Europe/Kyiv:20260511T180000
+SUMMARY:Медіаграмотність (Пр)
+DESCRIPTION:збірна група Б0193з\\nЦипердюк Іван Михайлович\\nhttps://meet
+ .google.com/pbz-ktmz...
+END:VEVENT
+BEGIN:VEVENT
+UID:877aa289-acb7-4e8d-b3b9-7b3ab9617bb5@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260512T083000
+DTEND;TZID=Europe/Kyiv:20260512T095000
+SUMMARY:Якість програмного забезпечення і тестування (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nЯкубовський Володимир Петрович\\nhtt
+ ps://meet.google.com/shg-aprh...
+END:VEVENT
+BEGIN:VEVENT
+UID:379579ce-93d4-419c-9ca3-24448609169f@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260512T100000
+DTEND;TZID=Europe/Kyiv:20260512T112000
+SUMMARY:Методи розробки програмних систем (Л)
+DESCRIPTION:збірна група Б0194з\\nГолубцов Владислав Олексійович
+END:VEVENT
+BEGIN:VEVENT
+UID:cd01be17-f5ed-448c-aa1c-5fa7e9a5fa6b@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260512T120000
+DTEND;TZID=Europe/Kyiv:20260512T132000
+SUMMARY:Організація баз даних (Л)
+DESCRIPTION:збірна група ІПЗз+д-23\\nІванов Олександр Олександрович\\nhtt
+ ps://meet.google.com/qth-xtsb...
+END:VEVENT
+BEGIN:VEVENT
+UID:4f5d9e63-012a-4ceb-a4b5-95c5ba3686fa@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260512T133000
+DTEND;TZID=Europe/Kyiv:20260512T145000
+SUMMARY:Створення застосунків з графічним інтерфейсом. Python (Пр)
+DESCRIPTION:збірна група Б0199з\\nРибак Юрій Михайлович\\nhttps://meet.go
+ ogle.com/svp-dewn...
+END:VEVENT
+BEGIN:VEVENT
+UID:5640a912-202c-4094-8398-8d0cdee24e75@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260512T151000
+DTEND;TZID=Europe/Kyiv:20260512T163000
+SUMMARY:Управління ризиками в проєктній діяльності (Л)
+DESCRIPTION:збірна група Б0202з\\nДаляк Надія Анатоліївна\\nhttps://meet.
+ google.com/eno-bjpf...
+END:VEVENT
+BEGIN:VEVENT
+UID:cd2ccb6a-55bb-41d3-b18e-85fdbc926cd2@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260512T164000
+DTEND;TZID=Europe/Kyiv:20260512T180000
+SUMMARY:Фінансовий менеджмент у проєктній діяльності (Л)
+DESCRIPTION:збірна група Б0203з\\nМаксимюк Мирослав Михайлович\\nhttps://
+ meet.google.com/qhz-dyxj...
+END:VEVENT
+BEGIN:VEVENT
+UID:cc6dd019-c23c-4255-91b5-54bd132bf16f@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260512T181000
+DTEND;TZID=Europe/Kyiv:20260512T193000
+SUMMARY:Тренінг-курс `Тестування програмного забезпечення: підготовка до 
+ здачі (Пр)
+DESCRIPTION:збірна група Б0188з\\nРибак Юрій Михайлович\\nhttps://meet.go
+ ogle.com/svp-dewn...
+END:VEVENT
+BEGIN:VEVENT
+UID:0c787262-d92e-4942-bb53-bb5fe0b9cbe2@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260513T083000
+DTEND;TZID=Europe/Kyiv:20260513T095000
+SUMMARY:Якість програмного забезпечення і тестування (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nЯкубовський Володимир Петрович\\nhtt
+ ps://meet.google.com/shg-aprh...
+END:VEVENT
+BEGIN:VEVENT
+UID:6ac6fa5e-b1ec-4128-8469-4ab292a3fd63@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260513T100000
+DTEND;TZID=Europe/Kyiv:20260513T112000
+SUMMARY:Якість програмного забезпечення і тестування (Л)
+DESCRIPTION:збірна група ІПЗз+д-23\\nЯкубовський Володимир Петрович\\nhtt
+ ps://meet.google.com/shg-aprh...
+END:VEVENT
+BEGIN:VEVENT
+UID:08432b49-4ea9-439c-86a0-a1cf6c35430e@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260513T120000
+DTEND;TZID=Europe/Kyiv:20260513T132000
+SUMMARY:Розробка веб-додатків\, веб-дизайн та тестування (Л)
+DESCRIPTION:збірна група ІПЗз+д-23\\nСурма Юрій Юрійович\\nhttps://meet.g
+ oogle.com/xxm-mtxb...
+END:VEVENT
+BEGIN:VEVENT
+UID:7ba6a50b-4680-41f0-b7ea-eed2d037be7d@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260513T133000
+DTEND;TZID=Europe/Kyiv:20260513T145000
+SUMMARY:Організація баз даних (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nГоловчук Петро Володимирович\\nhttps
+ ://meet.google.com/iee-nhiv...
+END:VEVENT
+BEGIN:VEVENT
+UID:fa558788-11f2-4d0b-8ebc-b3bc0c6242fa@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260513T151000
+DTEND;TZID=Europe/Kyiv:20260513T163000
+SUMMARY:Організація баз даних (Л)
+DESCRIPTION:збірна група ІПЗз+д-23\\nІванов Олександр Олександрович\\nhtt
+ ps://meet.google.com/qth-xtsb...
+END:VEVENT
+BEGIN:VEVENT
+UID:24b3c10d-4c62-4bd0-8046-e71eb56c2635@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260513T164000
+DTEND;TZID=Europe/Kyiv:20260513T180000
+SUMMARY:Управління ризиками в проєктній діяльності (Пр)
+DESCRIPTION:збірна група Б0202з\\nДаляк Надія Анатоліївна\\nhttps://meet.
+ google.com/eno-bjpf...
+END:VEVENT
+BEGIN:VEVENT
+UID:d66c347e-5bc9-4754-bc01-86e2a4c3c9cf@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260514T083000
+DTEND;TZID=Europe/Kyiv:20260514T095000
+SUMMARY:Тренінг-курс `Редагування растрових зображень` (Пр)
+DESCRIPTION:збірна група Б0150з\\nГончарик Андрій Петрович\\nhttps://meet
+ .google.com/fkq-toda...
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3b30e1-0d8a-4adb-b221-31a3935b0629@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260514T100000
+DTEND;TZID=Europe/Kyiv:20260514T112000
+SUMMARY:Методи розробки програмних систем (Пр)
+DESCRIPTION:збірна група Б0194з\\nГолубцов Владислав Олексійович
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b29372-94f3-433c-95b5-ba71cc697e43@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260514T120000
+DTEND;TZID=Europe/Kyiv:20260514T132000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nКуцела Марія Михайлівна\\nhttps://us
+ 02web.zoom.us/j/416321...
+END:VEVENT
+BEGIN:VEVENT
+UID:23b7e62b-7a43-43dd-b394-613172276267@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260514T133000
+DTEND;TZID=Europe/Kyiv:20260514T145000
+SUMMARY:Організація баз даних (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nГоловчук Петро Володимирович\\nhttps
+ ://meet.google.com/iee-nhiv...
+END:VEVENT
+BEGIN:VEVENT
+UID:b7c4c706-d50f-4010-9b64-746d480098b5@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260514T151000
+DTEND;TZID=Europe/Kyiv:20260514T163000
+SUMMARY:Фінансовий менеджмент у проєктній діяльності (Пр)
+DESCRIPTION:збірна група Б0203з\\nМаксимюк Мирослав Михайлович\\nhttps://
+ meet.google.com/qhz-dyxj...
+END:VEVENT
+BEGIN:VEVENT
+UID:0ab8e1f1-55f5-49cb-98d3-7604cd8aa85a@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260514T164000
+DTEND;TZID=Europe/Kyiv:20260514T180000
+SUMMARY:Тренінг-курс `Бізнес-планування` (Пр)
+DESCRIPTION:збірна група Б0133з\\nШкварилюк Марта Володимирівна\\nhttps:/
+ /meet.google.com/yho-hdfg...
+END:VEVENT
+BEGIN:VEVENT
+UID:0e5ed766-6953-4d15-a5be-02bfc1f417ad@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260514T181000
+DTEND;TZID=Europe/Kyiv:20260514T193000
+SUMMARY:Тренінг-курс `Принципи розробки з використанням сучасних Python W
+ eb Fr (Пр)
+DESCRIPTION:збірна група Б0187з\\nРибак Юрій Михайлович\\nhttps://meet.go
+ ogle.com/svp-dewn...
+END:VEVENT
+BEGIN:VEVENT
+UID:d794c5a5-f875-4580-a1c0-2ec109a09f5c@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260515T083000
+DTEND;TZID=Europe/Kyiv:20260515T095000
+SUMMARY:Якість програмного забезпечення і тестування (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nЯкубовський Володимир Петрович\\nhtt
+ ps://meet.google.com/shg-aprh...
+END:VEVENT
+BEGIN:VEVENT
+UID:3010003a-8e58-48f4-a396-486a6b1cb776@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260515T100000
+DTEND;TZID=Europe/Kyiv:20260515T112000
+SUMMARY:Тренінг-курс `Self coaching` (Пр)
+DESCRIPTION:збірна група Б0156з\\nПопадюк Ірина Ігорівна
+END:VEVENT
+BEGIN:VEVENT
+UID:8679c0bf-ec3e-4b0b-91be-ad6b6b8d1a3c@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260515T120000
+DTEND;TZID=Europe/Kyiv:20260515T132000
+SUMMARY:Створення застосунків з графічним інтерфейсом. Python (Пр)
+DESCRIPTION:збірна група Б0199з\\nРибак Юрій Михайлович\\nhttps://meet.go
+ ogle.com/svp-dewn...
+END:VEVENT
+BEGIN:VEVENT
+UID:195751c5-7252-4b1a-aae8-0b57334e6f50@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260515T133000
+DTEND;TZID=Europe/Kyiv:20260515T145000
+SUMMARY:Розробка веб-додатків\, веб-дизайн та тестування (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nСурма Юрій Юрійович\\nhttps://meet.g
+ oogle.com/xxm-mtxb...
+END:VEVENT
+BEGIN:VEVENT
+UID:fba327ba-6f5f-4503-9d60-05fa997684f2@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260515T151000
+DTEND;TZID=Europe/Kyiv:20260515T163000
+SUMMARY:Організація баз даних (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nГоловчук Петро Володимирович\\nhttps
+ ://meet.google.com/iee-nhiv...
+END:VEVENT
+BEGIN:VEVENT
+UID:e64801dc-4404-4adb-af5c-6caa8cc2c300@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260515T164000
+DTEND;TZID=Europe/Kyiv:20260515T180000
+SUMMARY:Тренінг-курс `Виробництво контенту: фото\, відео` (Пр)
+DESCRIPTION:збірна група Б0135з\\nБабенко Вікторія Володимирівна\\nhttps:
+ //meet.google.com/acw-pjgi...
+END:VEVENT
+BEGIN:VEVENT
+UID:31e354ed-4e7e-40e8-a5cf-bcb7060ae1d3@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260518T083000
+DTEND;TZID=Europe/Kyiv:20260518T095000
+SUMMARY:Якість програмного забезпечення і тестування (Л)
+DESCRIPTION:збірна група ІПЗз+д-23\\nЯкубовський Володимир Петрович\\nhtt
+ ps://meet.google.com/shg-aprh...
+END:VEVENT
+BEGIN:VEVENT
+UID:47cc530f-a1ed-412c-af69-4c70d6fecbf8@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260518T100000
+DTEND;TZID=Europe/Kyiv:20260518T112000
+SUMMARY:Тренінг-курс `Комп`ютерна графіка` (Пр)
+DESCRIPTION:збірна група Б0138з\\nГончарик Андрій Петрович\\nhttps://meet
+ .google.com/fkq-toda...
+END:VEVENT
+BEGIN:VEVENT
+UID:0c39f37c-b775-402d-aafc-54b1afb330a6@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260518T120000
+DTEND;TZID=Europe/Kyiv:20260518T132000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nКуцела Марія Михайлівна\\nhttps://us
+ 02web.zoom.us/j/416321...
+END:VEVENT
+BEGIN:VEVENT
+UID:9e946654-f5f5-4ea1-a372-ef8dd389aa85@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260518T133000
+DTEND;TZID=Europe/Kyiv:20260518T145000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nКуцела Марія Михайлівна\\nhttps://us
+ 02web.zoom.us/j/416321...
+END:VEVENT
+BEGIN:VEVENT
+UID:1be57276-0fb4-404b-aad9-c921b3a5d9dd@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260518T151000
+DTEND;TZID=Europe/Kyiv:20260518T163000
+SUMMARY:Медіаграмотність (Пр)
+DESCRIPTION:збірна група Б0193з\\nЦипердюк Іван Михайлович\\nhttps://meet
+ .google.com/pbz-ktmz...
+END:VEVENT
+BEGIN:VEVENT
+UID:802cac2f-c8eb-43ff-b0c7-fce557bd5480@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260518T164000
+DTEND;TZID=Europe/Kyiv:20260518T180000
+SUMMARY:Медіаграмотність (Пр)
+DESCRIPTION:збірна група Б0193з\\nЦипердюк Іван Михайлович\\nhttps://meet
+ .google.com/pbz-ktmz...
+END:VEVENT
+BEGIN:VEVENT
+UID:41bc7578-5f90-4708-8103-6732be9f3c46@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260519T083000
+DTEND;TZID=Europe/Kyiv:20260519T095000
+SUMMARY:Якість програмного забезпечення і тестування (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nЯкубовський Володимир Петрович\\nhtt
+ ps://meet.google.com/shg-aprh...
+END:VEVENT
+BEGIN:VEVENT
+UID:288d5d34-56bc-4c90-848e-e6fae9aace93@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260519T100000
+DTEND;TZID=Europe/Kyiv:20260519T112000
+SUMMARY:Методи розробки програмних систем (Л)
+DESCRIPTION:збірна група Б0194з\\nГолубцов Владислав Олексійович
+END:VEVENT
+BEGIN:VEVENT
+UID:8a838af2-9f7a-42f3-885e-290e171be431@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260519T120000
+DTEND;TZID=Europe/Kyiv:20260519T132000
+SUMMARY:Організація баз даних (Л)
+DESCRIPTION:збірна група ІПЗз+д-23\\nІванов Олександр Олександрович\\nhtt
+ ps://meet.google.com/qth-xtsb...
+END:VEVENT
+BEGIN:VEVENT
+UID:7e9ee084-6d2b-4cd6-a330-eba6bcb3d334@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260519T133000
+DTEND;TZID=Europe/Kyiv:20260519T145000
+SUMMARY:Створення застосунків з графічним інтерфейсом. Python (Пр)
+DESCRIPTION:збірна група Б0199з\\nРибак Юрій Михайлович\\nhttps://meet.go
+ ogle.com/svp-dewn...
+END:VEVENT
+BEGIN:VEVENT
+UID:f00040b4-7537-4986-b9b0-ed5045f9a330@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260519T151000
+DTEND;TZID=Europe/Kyiv:20260519T163000
+SUMMARY:Управління ризиками в проєктній діяльності (Л)
+DESCRIPTION:збірна група Б0202з\\nДаляк Надія Анатоліївна\\nhttps://meet.
+ google.com/eno-bjpf...
+END:VEVENT
+BEGIN:VEVENT
+UID:5662bffc-4fe8-48d4-aae6-1532c60cdda4@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260519T164000
+DTEND;TZID=Europe/Kyiv:20260519T180000
+SUMMARY:Фінансовий менеджмент у проєктній діяльності (Л)
+DESCRIPTION:збірна група Б0203з\\nМаксимюк Мирослав Михайлович\\nhttps://
+ meet.google.com/qhz-dyxj...
+END:VEVENT
+BEGIN:VEVENT
+UID:494b6091-3e45-4c17-97c3-7d8eee896ae9@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260519T181000
+DTEND;TZID=Europe/Kyiv:20260519T193000
+SUMMARY:Тренінг-курс `Тестування програмного забезпечення: підготовка до 
+ здачі (Пр)
+DESCRIPTION:збірна група Б0188з\\nРибак Юрій Михайлович\\nhttps://meet.go
+ ogle.com/svp-dewn...
+END:VEVENT
+BEGIN:VEVENT
+UID:adf7c99c-9761-4047-9b69-cef6c02bd232@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260520T083000
+DTEND;TZID=Europe/Kyiv:20260520T095000
+SUMMARY:Якість програмного забезпечення і тестування (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nЯкубовський Володимир Петрович\\nhtt
+ ps://meet.google.com/shg-aprh...
+END:VEVENT
+BEGIN:VEVENT
+UID:2d32d3c4-dec7-4988-a43c-9d64a353055f@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260520T100000
+DTEND;TZID=Europe/Kyiv:20260520T112000
+SUMMARY:Розробка веб-додатків\, веб-дизайн та тестування (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nСурма Юрій Юрійович\\nhttps://meet.g
+ oogle.com/xxm-mtxb...
+END:VEVENT
+BEGIN:VEVENT
+UID:299f3d2d-a960-475d-8b52-a95750ae1e8e@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260520T120000
+DTEND;TZID=Europe/Kyiv:20260520T132000
+SUMMARY:Розробка веб-додатків\, веб-дизайн та тестування (Л)
+DESCRIPTION:збірна група ІПЗз+д-23\\nСурма Юрій Юрійович\\nhttps://meet.g
+ oogle.com/xxm-mtxb...
+END:VEVENT
+BEGIN:VEVENT
+UID:6f07ecd0-e68d-427b-90e7-66adee229355@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260520T133000
+DTEND;TZID=Europe/Kyiv:20260520T145000
+SUMMARY:Організація баз даних (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nГоловчук Петро Володимирович\\nhttps
+ ://meet.google.com/iee-nhiv...
+END:VEVENT
+BEGIN:VEVENT
+UID:46b65ba4-4df2-4c6e-bb2e-f8e7daa8b041@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260520T151000
+DTEND;TZID=Europe/Kyiv:20260520T163000
+SUMMARY:Тренінг-курс `Принципи розробки з використанням сучасних Python W
+ eb Fr (Пр)
+DESCRIPTION:збірна група Б0187з\\nРибак Юрій Михайлович\\nhttps://meet.go
+ ogle.com/svp-dewn...
+END:VEVENT
+BEGIN:VEVENT
+UID:f80e4503-7fca-4757-95f7-f7835282c9e6@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260520T164000
+DTEND;TZID=Europe/Kyiv:20260520T180000
+SUMMARY:Управління ризиками в проєктній діяльності (Пр)
+DESCRIPTION:збірна група Б0202з\\nДаляк Надія Анатоліївна\\nhttps://meet.
+ google.com/eno-bjpf...
+END:VEVENT
+BEGIN:VEVENT
+UID:122b3f23-9dad-4daf-aa56-eeee0692a350@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260521T083000
+DTEND;TZID=Europe/Kyiv:20260521T095000
+SUMMARY:Тренінг-курс `Редагування растрових зображень` (Пр)
+DESCRIPTION:збірна група Б0150з\\nГончарик Андрій Петрович\\nhttps://meet
+ .google.com/fkq-toda...
+END:VEVENT
+BEGIN:VEVENT
+UID:e164d1d9-b04a-43dc-a88e-3f5b2ee21269@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260521T100000
+DTEND;TZID=Europe/Kyiv:20260521T112000
+SUMMARY:Методи розробки програмних систем (Пр)
+DESCRIPTION:збірна група Б0194з\\nГолубцов Владислав Олексійович
+END:VEVENT
+BEGIN:VEVENT
+UID:20e7978d-5ec6-4d7d-8595-73ac321deaa9@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260521T120000
+DTEND;TZID=Europe/Kyiv:20260521T132000
+SUMMARY:Іноземна мова (за професійним спрямуванням) (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nКуцела Марія Михайлівна\\nhttps://us
+ 02web.zoom.us/j/416321...
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c0f0ec-5310-437a-bbdc-392412a45c29@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260521T133000
+DTEND;TZID=Europe/Kyiv:20260521T145000
+SUMMARY:Організація баз даних (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nГоловчук Петро Володимирович\\nhttps
+ ://meet.google.com/iee-nhiv...
+END:VEVENT
+BEGIN:VEVENT
+UID:72163def-df68-4597-a23e-524b1e7b0051@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260521T151000
+DTEND;TZID=Europe/Kyiv:20260521T163000
+SUMMARY:Фінансовий менеджмент у проєктній діяльності (Пр)
+DESCRIPTION:збірна група Б0203з\\nМаксимюк Мирослав Михайлович\\nhttps://
+ meet.google.com/qhz-dyxj...
+END:VEVENT
+BEGIN:VEVENT
+UID:7d9a80d7-b394-499c-8af6-580636131942@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260521T164000
+DTEND;TZID=Europe/Kyiv:20260521T180000
+SUMMARY:Тренінг-курс `Бізнес-планування` (Пр)
+DESCRIPTION:збірна група Б0133з\\nШкварилюк Марта Володимирівна\\nhttps:/
+ /meet.google.com/yho-hdfg...
+END:VEVENT
+BEGIN:VEVENT
+UID:5d153e40-2c96-4776-9ea9-95cd6b65f9ff@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260522T083000
+DTEND;TZID=Europe/Kyiv:20260522T095000
+SUMMARY:Якість програмного забезпечення і тестування (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nЯкубовський Володимир Петрович\\nhtt
+ ps://meet.google.com/shg-aprh...
+END:VEVENT
+BEGIN:VEVENT
+UID:2f527020-715c-475b-9f70-de8693b8fd8b@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260522T100000
+DTEND;TZID=Europe/Kyiv:20260522T112000
+SUMMARY:Тренінг-курс `Self coaching` (Пр)
+DESCRIPTION:збірна група Б0156з\\nПопадюк Ірина Ігорівна
+END:VEVENT
+BEGIN:VEVENT
+UID:1baa39b3-1548-4e13-b7b1-29353d1dac28@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260522T120000
+DTEND;TZID=Europe/Kyiv:20260522T132000
+SUMMARY:Створення застосунків з графічним інтерфейсом. Python (Пр)
+DESCRIPTION:збірна група Б0199з\\nРибак Юрій Михайлович\\nhttps://meet.go
+ ogle.com/svp-dewn...
+END:VEVENT
+BEGIN:VEVENT
+UID:8f6a420d-38b6-4e21-9be6-5ba61af840df@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260522T133000
+DTEND;TZID=Europe/Kyiv:20260522T145000
+SUMMARY:Розробка веб-додатків\, веб-дизайн та тестування (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nСурма Юрій Юрійович\\nhttps://meet.g
+ oogle.com/xxm-mtxb...
+END:VEVENT
+BEGIN:VEVENT
+UID:25741c02-2b93-469c-aa4f-8278ac082d67@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260522T151000
+DTEND;TZID=Europe/Kyiv:20260522T163000
+SUMMARY:Організація баз даних (Пр)
+DESCRIPTION:збірна група ІПЗз+д-23\\nГоловчук Петро Володимирович\\nhttps
+ ://meet.google.com/iee-nhiv...
+END:VEVENT
+BEGIN:VEVENT
+UID:cef32396-1009-4112-9d79-4dba9490fa3d@chatgpt-rozklad
+DTSTAMP:20260503T221628Z
+DTSTART;TZID=Europe/Kyiv:20260522T164000
+DTEND;TZID=Europe/Kyiv:20260522T180000
+SUMMARY:Тренінг-курс `Виробництво контенту: фото\, відео` (Пр)
+DESCRIPTION:збірна група Б0135з\\nБабенко Вікторія Володимирівна\\nhttps:
+ //meet.google.com/acw-pjgi...
+END:VEVENT
+END:VCALENDAR
